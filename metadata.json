@@ -1,0 +1,5 @@
+{
+  "name": "WealthFlow - Personal Finance Manager",
+  "description": "A comprehensive personal finance management system featuring account tracking, transaction recording, category management, and AI-powered financial insights using Gemini.",
+  "requestFramePermissions": []
+}
